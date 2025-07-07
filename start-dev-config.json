@@ -9,5 +9,16 @@
         "/wp-admin/post.php?post=10447&action=elementor",
         "/wp-admin/media-new.php"
     ]
+  },
+    {
+    "name": "astra",
+    "openTabPath": [
+        "/wp-admin/nav-menus.php",
+        "/wp-admin/customize.php?return=%2Fwp-admin%2F",
+        "/wp-admin/options-reading.php",
+        "/wp-admin/post.php?post=81&action=elementor",
+        "/wp-admin/post.php?post=68&action=elementor",
+        "/wp-admin/media-new.php"
+    ]
   }
 ]
